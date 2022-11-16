@@ -6,26 +6,37 @@ class student {
     print("your name ${name}");
     print("your id ${id}");
     print("your phone ${phone}");
+    
   }
 }
 
-class Huomen {
-  String? move;
-  int? age;
-  int id = 0;
-  static id_S() {}
+// class Huomen {
+//   String? gender;
+//   int? age;
+  
 
-  // Huomen({required String move, required age}) {
-  //   this.move = move;
-  //   this.age = age;
-  //   print("your info");
-  // }
-  Huomen({this.move, this.age});
-  printer() {
-    print("your move ${move}");
-    print("your age ${age}");
-  }
-}
+//   // Huomen({required String move, required age}) {
+//   //   this.move = move;
+//   //   this.age = age;
+//   //   print("your info");
+//   // }
+//   Huomen({this.gender, this.age});
+//   printer() {
+//     print("your move ${gender}");
+//     print("your age ${age}");
+//   }
+// }
+
+
+
+
+
+
+
+
+
+
+
 
 class Buld {
   String? name;
